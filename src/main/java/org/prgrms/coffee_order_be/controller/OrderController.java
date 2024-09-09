@@ -1,4 +1,4 @@
-package org.prgrms.coffee_order_be.Controller;
+package org.prgrms.coffee_order_be.controller;
 
 import org.prgrms.coffee_order_be.model.dto.OrderDTO;
 import org.prgrms.coffee_order_be.model.entity.OrderEntity;
@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
-import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/order")

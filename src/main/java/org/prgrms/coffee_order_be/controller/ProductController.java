@@ -1,4 +1,4 @@
-package org.prgrms.coffee_order_be.Controller;
+package org.prgrms.coffee_order_be.controller;
 
 import org.prgrms.coffee_order_be.model.dto.ProductDTO;
 import org.prgrms.coffee_order_be.model.entity.ProductEntity;
